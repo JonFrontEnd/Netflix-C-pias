@@ -6,4 +6,4 @@
     
     Nesse projeto estou fazendo uma cópias da nétflix com o intuito de melhorar minhas habilidades em html e css
   
-![netflix](https://user-images.githubusercontent.com/89999300/170877556-2ebd1cec-72b1-45bf-8ccf-fa327b43b195.jpg)
+![git netflix](https://user-images.githubusercontent.com/89999300/170879087-2ddd28f9-31de-410f-bbdc-db43071d9f57.gif)
