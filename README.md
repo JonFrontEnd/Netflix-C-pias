@@ -3,9 +3,6 @@
   Projeto &#128640; Netflix está em andamento.. 
   
   
-    Utilizando as seguintes ferramentas
-  <div>
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonFrontEnd&layout=compact&langs_count=7&theme=dark"/>
   
   
   
